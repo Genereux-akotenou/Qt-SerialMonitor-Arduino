@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/ArduinoPortSerie">
+        <file>assets/defilement_automatique.png</file>
+        <file>assets/delete.png</file>
+        <file>assets/horloge.jpg</file>
+    </qresource>
+</RCC>
